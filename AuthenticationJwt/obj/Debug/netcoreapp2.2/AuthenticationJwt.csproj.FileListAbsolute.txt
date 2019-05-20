@@ -1,0 +1,14 @@
+E:\Cursos\C-Sharp\NetCoreASP\AuthenticationJwt\AuthenticationJwt\bin\Debug\netcoreapp2.2\AuthenticationJwt.deps.json
+E:\Cursos\C-Sharp\NetCoreASP\AuthenticationJwt\AuthenticationJwt\bin\Debug\netcoreapp2.2\AuthenticationJwt.runtimeconfig.json
+E:\Cursos\C-Sharp\NetCoreASP\AuthenticationJwt\AuthenticationJwt\bin\Debug\netcoreapp2.2\AuthenticationJwt.runtimeconfig.dev.json
+E:\Cursos\C-Sharp\NetCoreASP\AuthenticationJwt\AuthenticationJwt\bin\Debug\netcoreapp2.2\AuthenticationJwt.dll
+E:\Cursos\C-Sharp\NetCoreASP\AuthenticationJwt\AuthenticationJwt\bin\Debug\netcoreapp2.2\AuthenticationJwt.pdb
+E:\Cursos\C-Sharp\NetCoreASP\AuthenticationJwt\AuthenticationJwt\obj\Debug\netcoreapp2.2\AuthenticationJwt.csprojAssemblyReference.cache
+E:\Cursos\C-Sharp\NetCoreASP\AuthenticationJwt\AuthenticationJwt\obj\Debug\netcoreapp2.2\AuthenticationJwt.csproj.CoreCompileInputs.cache
+E:\Cursos\C-Sharp\NetCoreASP\AuthenticationJwt\AuthenticationJwt\obj\Debug\netcoreapp2.2\AuthenticationJwt.RazorAssemblyInfo.cache
+E:\Cursos\C-Sharp\NetCoreASP\AuthenticationJwt\AuthenticationJwt\obj\Debug\netcoreapp2.2\AuthenticationJwt.RazorAssemblyInfo.cs
+E:\Cursos\C-Sharp\NetCoreASP\AuthenticationJwt\AuthenticationJwt\obj\Debug\netcoreapp2.2\AuthenticationJwt.AssemblyInfoInputs.cache
+E:\Cursos\C-Sharp\NetCoreASP\AuthenticationJwt\AuthenticationJwt\obj\Debug\netcoreapp2.2\AuthenticationJwt.AssemblyInfo.cs
+E:\Cursos\C-Sharp\NetCoreASP\AuthenticationJwt\AuthenticationJwt\obj\Debug\netcoreapp2.2\AuthenticationJwt.RazorTargetAssemblyInfo.cache
+E:\Cursos\C-Sharp\NetCoreASP\AuthenticationJwt\AuthenticationJwt\obj\Debug\netcoreapp2.2\AuthenticationJwt.dll
+E:\Cursos\C-Sharp\NetCoreASP\AuthenticationJwt\AuthenticationJwt\obj\Debug\netcoreapp2.2\AuthenticationJwt.pdb
